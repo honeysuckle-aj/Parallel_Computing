@@ -1,0 +1,12 @@
+- ((63e39607-635c-49e1-8cdc-c9020c13b17d))
+- 基本概念
+	- 由Fortune和Wyllie1978年提出，又称[[SIMD-SM]]模型。有一个集中的共享存储器和一个指令控制器，通过SM的R/W交换数据，隐式同步计算。
+- ((63e39637-4efd-4fc7-81dc-05c6b5932e92))
+- 分类
+	- [[PRAM-CRCW]]并发读并发写
+		- [[CPRAM‐CRCW]](Common PRAM‐CRCW)：仅允许写入相同数据
+		- [[PPRAM‐CRCW]](Priority PRAM‐CRCW)：仅允许优先级最高的处理器写入
+		- [[APRAM模型]](Arbitrary PRAM‐CRCW)：允许任意处理器自由写入
+	- [[PRAM‐CREW]]并发读互斥写
+	- [[PRAM‐EREW]]互斥读互斥写
+	-
