@@ -1,0 +1,9 @@
+- ## 伪代码
+- ![image.png](../assets/image_1675948796324_0.png)
+- ![image.png](../assets/image_1675948775734_0.png)
+- ![image.png](../assets/image_1675948825030_0.png)
+- ## 图例
+- ![image.png](../assets/image_1675950049320_0.png)
+- ![image.png](../assets/image_1675949618689_0.png)
+- 按A或B按k、j维复制时，在立方体上，第s列复制第s行。
+- 比如：（c）中复制A，下面（第一列）复制了第一行（1，3），而上面（第二列）复制了第二行（2，4）
