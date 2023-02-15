@@ -28,7 +28,7 @@
  ;; :ui/show-brackets? true
 
  ;; Enable showing the body of blocks when referencing them.
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
